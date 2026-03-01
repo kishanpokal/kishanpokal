@@ -1,97 +1,97 @@
+<img src="https://i.pinimg.com/originals/7d/1a/3f/7d1a3f77eee9b34782c6f88e97a6c888.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Banner Animation">
+
 <div align="center">
   
-# Hi there, I'm Kishan Pokal 👋
-
-### 📱 Android Developer | 🤖 AI & Data Science Enthusiast
+# ⚡ Kishan Pokal 
+### 📱 Android Architect | 🤖 AI Enthusiast | Data Alchemist
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Architecting+Smart+Android+Applications;Engineering+Data-Driven+AI+Solutions;Transforming+Ideas+Into+Scalable+Code" alt="Typing SVG" />
 </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanpokal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="kishanpokal trophies" />
+</a>
+
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kishan._.pokal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpokal956)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@kishanpokal1111)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanpokal1111@gmail.com) 
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 📂 Interactive Portfolio
+*Click the arrows to expand sections!*
 
-- 🎓 **Education:** B.Sc. Computer Science (2022–2025) @ Gujarat University
-- 🎯 **Current Goal:** Building scalable, professional apps to publish on the Google Play Store by late 2026 / early 2027.
-- 💡 **Interests:** Integrating AI features (like spending prediction & smart recommendations) into practical applications.
-- 🌱 **Currently Learning:** Machine Learning, Deep Learning, Cloud Computing, and advanced UI architecture.
+<details>
+  <summary><b>🔥 Current Focus & Ambitions</b></summary>
+  <br>
+  <ul>
+    <li>🎓 <b>Education:</b> B.Sc. Computer Science (2022–2025) @ Gujarat University</li>
+    <li>🎯 <b>Milestone:</b> Architecting professional-grade apps for the Google Play Store (Target: Late 2026 / Early 2027)</li>
+    <li>🧠 <b>Deep Dive:</b> Machine Learning, Cloud Computing, and predictive data modeling.</li>
+  </ul>
+</details>
 
----
-
-## 💻 Featured Projects
-
-| Project | Description | Tech Stack |
+<details>
+  <summary><b>💻 Featured Engineering Projects</b></summary>
+  <br>
+  
+| Architecture | Overview | Technologies |
 | :--- | :--- | :--- |
-| **Smart Expense Tracker** | Financial management app featuring AI-driven spending predictions and personalized smart recommendations. | `Kotlin` `Android` `Firebase` |
-| **AttendMate** | Mobile application designed for seamless and efficient attendance tracking and management. | `Kotlin` `Android` |
-| **Habit Tracker** | Web application featuring secure user authentication flows and progress analytics. | `Web` `Next.js` `Auth` |
+| **Smart Expense Tracker** | Financial engine utilizing AI-driven spending predictions and smart user recommendations. | `Kotlin` `Android` `Firebase` `ML` |
+| **AttendMate** | High-performance mobile ecosystem for seamless attendance tracking and enterprise management. | `Kotlin` `Android` |
+| **Habit Tracker** | Secure web platform featuring encrypted user authentication and detailed behavioral analytics. | `Next.js` `Auth` `Web` |
+
+</details>
+
+<details>
+  <summary><b>🛠️ Comprehensive Tech Arsenal</b></summary>
+  <br>
+  <div align="center">
+    <b>Core Languages</b><br>
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <br><br>
+    <b>Data Science & AI</b><br>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+    <br><br>
+    <b>Backend & Databases</b><br>
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  </div>
+</details>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-### 🧠 Data Science & AI
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-### ⚙️ Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
+### 📊 Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kishanpokal&theme=tokyonight&hide_border=false" width="100%" />
+  
+  <br><br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 Daily Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%">
-
-<br>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kishanpokav)
-
-*Thanks for visiting!* <br>
-![](https://visitcount.itsvg.in/api?id=kishanpokal&icon=0&color=0)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%">
+  <br><br>
+  <img src="https://visitcount.itsvg.in/api?id=kishanpokal&icon=0&color=0" alt="Views">
 </div>
