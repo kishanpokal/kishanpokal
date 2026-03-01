@@ -1,0 +1,37 @@
+<svg width="1200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#302b63;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0f0c29;stop-opacity:0.4" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#grad)"/>
+  <!-- Wave shape bottom -->
+  <path d="M0,140 C200,100 400,170 600,130 C800,90 1000,160 1200,120 L1200,200 L0,200 Z" fill="#302b63" opacity="0.5"/>
+  <path d="M0,160 C150,130 350,180 550,150 C750,120 950,170 1200,145 L1200,200 L0,200 Z" fill="#24243e" opacity="0.7"/>
+  <!-- Stars/particles -->
+  <circle cx="50" cy="30" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="120" cy="60" r="1" fill="white" opacity="0.6"/>
+  <circle cx="200" cy="20" r="2" fill="white" opacity="0.9"/>
+  <circle cx="350" cy="45" r="1.5" fill="#a78bfa" opacity="0.8"/>
+  <circle cx="500" cy="25" r="1" fill="white" opacity="0.7"/>
+  <circle cx="650" cy="55" r="2" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="800" cy="30" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="950" cy="50" r="1" fill="white" opacity="0.5"/>
+  <circle cx="1050" cy="20" r="2" fill="#a78bfa" opacity="0.9"/>
+  <circle cx="1150" cy="40" r="1.5" fill="white" opacity="0.7"/>
+  <circle cx="1100" cy="70" r="1" fill="white" opacity="0.4"/>
+  <circle cx="750" cy="15" r="1" fill="#a78bfa" opacity="0.7"/>
+  <circle cx="300" cy="80" r="1" fill="white" opacity="0.5"/>
+  <circle cx="880" cy="65" r="1.5" fill="white" opacity="0.6"/>
+  <!-- Main text -->
+  <text x="600" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="white" text-anchor="middle" letter-spacing="1">Hi there, I'm Kishan Pokal 👋</text>
+  <!-- Subtitle -->
+  <text x="600" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#d8b4fe" text-anchor="middle" letter-spacing="0.5">Android Developer  |  AI &amp; Data Science Enthusiast</text>
+</svg>
