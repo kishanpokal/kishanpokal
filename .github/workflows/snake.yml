@@ -2,11 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight UTC
-  workflow_dispatch:        # Allows manual trigger from Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
+
+# 👇 PERMISSION BLOCK — DO NOT REMOVE 👇
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -14,15 +18,58 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake SVG
+      # ─── 1. Standard Light Snake ───────────────────────────────────────────
+      - name: Generate Light Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push output to `output` branch
+      # ─── 2. Dark Snake ─────────────────────────────────────────────────────
+      - name: Generate Dark Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─── 3. Purple / Tokyo-Night style Snake ───────────────────────────────
+      - name: Generate Purple Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-purple.svg?color_snake=#a78bfa&color_dots=#1a1b27,#2d2a55,#4c3a9e,#7c3aed,#a78bfa&color_empty=#1a1b27
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─── 4. Ocean / Cyan style Snake ───────────────────────────────────────
+      - name: Generate Ocean Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-ocean.svg?color_snake=#00f5ff&color_dots=#0d1117,#003344,#006688,#00aacc,#00f5ff&color_empty=#0d1117
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─── 5. Fire / Orange style Snake ──────────────────────────────────────
+      - name: Generate Fire Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-fire.svg?color_snake=#ff4500&color_dots=#0d1117,#3d1a00,#7a3300,#cc5500,#ff4500&color_empty=#0d1117
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─── 6. Push ALL generated SVGs to `output` branch ────────────────────
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
