@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER BANNER — `color=timeAuto` changes the gradient on every page refresh -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hi%20there%2C%20I'm%20Kishan%20Pokal%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Android%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descSize=17&descAlignY=62&descColor=d8b4fe&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeAuto&amp;height=200&amp;section=header&amp;text=Hi%20there%2C%20I'm%20Kishan%20Pokal%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Android%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&amp;descSize=17&amp;descAlignY=62&amp;descColor=d8b4fe&amp;animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7F52FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad" alt="Typing SVG" />
   </a>
 </div>
 
@@ -79,12 +79,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kishanpokal&theme=tokyonight&hide_border=false" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kishanpokal&amp;theme=tokyonight&amp;hide_border=false" width="100%" />
 </div>
 
 ---
@@ -105,14 +105,14 @@
   </picture>
 </div>
 
-> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo (see below) to auto-generate the snake every day.
+###> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo (see below) to auto-generate the snake every day.
 
 ---
 
 <div align="center">
 
 ### 💡 Daily Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="100%">
 
 <br>
 
@@ -125,5 +125,5 @@
 
 <!-- FOOTER WAVE — also uses timeAuto so it matches the header color on each refresh -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeAuto&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 </div>
