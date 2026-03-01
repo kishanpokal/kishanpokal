@@ -105,8 +105,6 @@
   </picture>
 </div>
 
-###> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo (see below) to auto-generate the snake every day.
-
 ---
 
 <div align="center">
