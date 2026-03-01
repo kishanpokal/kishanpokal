@@ -1,15 +1,11 @@
-<!-- ANIMATED HEADER BANNER — `color=timeAuto` changes the gradient on every page refresh -->
+<!-- HEADER — commit header.svg to your repo root, then this will always load from GitHub itself -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeAuto&amp;height=200&amp;section=header&amp;text=Hi%20there%2C%20I'm%20Kishan%20Pokal%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Android%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&amp;descSize=17&amp;descAlignY=62&amp;descColor=d8b4fe&amp;animation=twinkling" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Kishan Pokal - Android Developer | AI & Data Science Enthusiast"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7F52FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad" alt="Typing SVG" />
-  </a>
-</div>
+<!-- TYPING ANIMATION — markdown image syntax, no XML parser issues -->
 
-<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad)
 
 <div align="center">
 
@@ -79,19 +75,19 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kishanpokal&amp;theme=tokyonight&amp;hide_border=false" width="100%" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=kishanpokal&theme=tokyonight&hide_border=false)
+
 </div>
 
 ---
 
 ## 📊 Contribution Activity Graph
 
-[![Kishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Kishan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Kishan's+Contribution+Graph)
 
 ---
 
@@ -105,23 +101,25 @@
   </picture>
 </div>
 
+> ⚙️ **Snake setup:** Place `snake.yml` inside `.github/workflows/` in your profile repo, then go to Actions tab and run it manually once.
+
 ---
 
 <div align="center">
 
 ### 💡 Daily Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="100%">
 
-<br>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kishanpokav)
 
-*Thanks for visiting!* <br>
-![](https://visitcount.itsvg.in/api?id=kishanpokal&icon=0&color=0)
+*Thanks for visiting!*
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=kishanpokal&icon=0&color=0)
 
 </div>
 
-<!-- FOOTER WAVE — also uses timeAuto so it matches the header color on each refresh -->
+<!-- FOOTER — commit footer.svg to your repo root -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeAuto&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+  <img src="./footer.svg" width="100%" alt="footer"/>
 </div>
