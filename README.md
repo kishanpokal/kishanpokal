@@ -1,11 +1,13 @@
-<!-- HEADER — commit header.svg to your repo root, then this will always load from GitHub itself -->
+<!-- HEADER — commit header.svg to your repo root -->
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Kishan Pokal - Android Developer | AI & Data Science Enthusiast"/>
+  <img src="./header.svg" width="100%" alt="Kishan Pokal - Android Developer | AI &amp; Data Science Enthusiast"/>
 </div>
 
-<!-- TYPING ANIMATION — markdown image syntax, no XML parser issues -->
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
@@ -13,8 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpokal956)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@kishanpokal1111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanpokal1111@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kishanpokal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -75,19 +75,21 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&layout=compact&count_private=true" height="170"/>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kishanpokal&theme=tokyonight&hide_border=false)
-
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kishanpokal&theme=tokyonight&hide_border=false" width="70%"/>
 </div>
 
 ---
 
 ## 📊 Contribution Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Kishan's+Contribution+Graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 
 ---
 
@@ -95,13 +97,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg" width="100%"/>
   </picture>
 </div>
-
-> ⚙️ **Snake setup:** Place `snake.yml` inside `.github/workflows/` in your profile repo, then go to Actions tab and run it manually once.
 
 ---
 
@@ -109,13 +109,13 @@
 
 ### 💡 Daily Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+<br/>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kishanpokav)
 
 *Thanks for visiting!*
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=kishanpokal&icon=0&color=0)
 
 </div>
 
