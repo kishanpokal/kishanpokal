@@ -1,17 +1,24 @@
+<!-- ANIMATED HEADER BANNER — `color=timeAuto` changes the gradient on every page refresh -->
 <div align="center">
-  
-# Hi there, I'm Kishan Pokal 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hi%20there%2C%20I'm%20Kishan%20Pokal%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Android%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descSize=17&descAlignY=62&descColor=d8b4fe&animation=twinkling" width="100%"/>
+</div>
 
-### 📱 Android Developer | 🤖 AI & Data Science Enthusiast
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad" alt="Typing SVG" />
-</p>
+<br>
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kishan._.pokal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpokal956)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@kishanpokal1111)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanpokal1111@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanpokal1111@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kishanpokal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -82,6 +89,26 @@
 
 ---
 
+## 📊 Contribution Activity Graph
+
+[![Kishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Kishan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo (see below) to auto-generate the snake every day.
+
+---
+
 <div align="center">
 
 ### 💡 Daily Dev Quote
@@ -94,4 +121,9 @@
 *Thanks for visiting!* <br>
 ![](https://visitcount.itsvg.in/api?id=kishanpokal&icon=0&color=0)
 
+</div>
+
+<!-- FOOTER WAVE — also uses timeAuto so it matches the header color on each refresh -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
