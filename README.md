@@ -74,13 +74,20 @@
 
 ## 📈 GitHub Analytics
 
+<!-- 
+  Using github-readme-stats hosted on anuraghazra's own domain (more reliable than vercel.app)
+  Stats card + Top Langs side by side
+-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&layout=compact&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
 </div>
 
+<br/>
+
+<!-- Streak stats — nirzak instance is more stable than default -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kishanpokal&theme=tokyonight&hide_border=false" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=kishanpokal&theme=tokyonight&hide_border=false" width="70%"/>
 </div>
 
 ---
@@ -114,8 +121,6 @@
 <br/>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kishanpokav)
-
-*Thanks for visiting!*
 
 </div>
 
