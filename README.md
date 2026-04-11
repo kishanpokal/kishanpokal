@@ -83,20 +83,26 @@ I am a software engineer based in Ahmedabad, specializing in native Android deve
 ## 📊 Developer Metrics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanpokal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&cache_seconds=86400" width="100%" alt="Activity Graph"/>
 </div>
 
 <div align="center">
