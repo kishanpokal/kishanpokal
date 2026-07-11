@@ -1,23 +1,49 @@
-<svg fill="none" viewBox="0 0 490 370" width="490" height="370" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 540 470" width="540" height="470" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- macOS window buttons -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+  
+  <!-- Terminal title -->
+  <text x="270" y="24" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle">kishan@github: ~$ neofetch</text>
+  
+  <foreignObject x="30" y="60" width="480" height="400">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .terminal { font-family: monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9; background: transparent; padding-top: 30px; }
-        .prompt { color: #7ee787; font-weight: bold; }
-        .highlight { color: #a78bfa; font-weight: bold; }
+        .container { font-family: monospace; font-size: 13px; line-height: 2; color: #c9d1d9; }
+        .title { font-weight: bold; font-size: 14px; margin-bottom: 5px; }
+        .user { color: #23d18b; }
+        .at { color: #c9d1d9; }
+        .domain { color: #3b8eea; }
+        .divider { border-bottom: 1px solid #30363d; margin-bottom: 15px; width: 100%; }
+        .row { display: flex; margin-bottom: 3px; }
+        .key { width: 90px; color: #d18616; font-weight: bold; }
+        .val { flex: 1; }
+        .section { display: flex; align-items: center; margin-top: 15px; margin-bottom: 8px; color: #3b8eea; font-weight: bold; }
+        .line { border-bottom: 1px solid #30363d; flex: 1; margin-left: 10px; position: relative; top: -1px; }
+        .highlight { color: #23d18b; margin-right: 8px; font-weight: bold; }
       </style>
-      <div class="terminal">
-        <span class="prompt">kishan@github:~$</span> neofetch<br/>
-        -------------------------<br/>
-        <span class="highlight">OS:</span> Android / ML Ecosystem<br/>
-        <span class="highlight">Kernel:</span> Kotlin, Python, Java<br/>
-        <span class="highlight">Uptime:</span> 24/7 (Coding &amp; Testing)<br/>
-        <span class="highlight">Packages:</span> Firebase, Next.js<br/>
-        <span class="highlight">Shell:</span> Android Studio<br/>
-        <span class="highlight">Education:</span> B.Sc. CS<br/>
-        <span class="highlight">CPU:</span> ML &amp; Deep Learning<br/>
-        -------------------------<br/>
-        <span class="highlight">Contact:</span> kishanpokal1111@gmail.com
+      <div class="container">
+        
+        <div class="title"><span class="user">kishan</span><span class="at">@</span><span class="domain">github</span></div>
+        <div class="divider"></div>
+
+        <div class="row"><div class="key">Focus</div><div class="val">Play Store Testing &amp; App Launches</div></div>
+        <div class="row"><div class="key">Goal</div><div class="val">Publishing Scalable Apps ('26/'27)</div></div>
+        <div class="row"><div class="key">Edu</div><div class="val">B.Sc. CS, Gujarat University '25</div></div>
+
+        <div class="section"><span>~ Stack</span><div class="line"></div></div>
+        <div class="row"><div class="key">Languages</div><div class="val">Kotlin, Python, Java, C++, JS</div></div>
+        <div class="row"><div class="key">App/Web</div><div class="val">Android, Next.js, HTML5, CSS3</div></div>
+        <div class="row"><div class="key">AI / ML</div><div class="val">Scikit-learn, Pandas, NumPy</div></div>
+        <div class="row"><div class="key">Backend</div><div class="val">Firebase, Flask, MySQL</div></div>
+
+        <div class="section"><span>~ Highlights</span><div class="line"></div></div>
+        <div><span class="highlight">•</span>Building TrackEasy: Smart Expense Tracker</div>
+        <div><span class="highlight">•</span>Integrating Local Gemma AI for Tuition App</div>
+
       </div>
     </div>
   </foreignObject>
