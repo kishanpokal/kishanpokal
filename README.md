@@ -24,10 +24,13 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-kishanpokal956-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpokal956)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-kishan._.pokal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kishan._.pokal)
 
-<!-- Note: For a live contribution graph that looks identical to the bottom terminal in the image, you would need to use a GitHub Actions script like the reference profile does. Here is your current dynamic activity graph formatted cleanly: -->
-
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=0d1117&color=7F52FF&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20Graph" width="970" alt="Kishan's GitHub contribution graph" />
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg" width="970"/>
+</picture>
 
 </div>
