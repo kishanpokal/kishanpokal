@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 490 370" width="490" height="370" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .terminal { font-family: monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9; background: transparent; padding-top: 30px; }
+        .prompt { color: #7ee787; font-weight: bold; }
+        .highlight { color: #a78bfa; font-weight: bold; }
+      </style>
+      <div class="terminal">
+        <span class="prompt">kishan@github:~$</span> neofetch<br/>
+        -------------------------<br/>
+        <span class="highlight">OS:</span> Android / ML Ecosystem<br/>
+        <span class="highlight">Kernel:</span> Kotlin, Python, Java<br/>
+        <span class="highlight">Uptime:</span> 24/7 (Coding &amp; Testing)<br/>
+        <span class="highlight">Packages:</span> Firebase, Next.js<br/>
+        <span class="highlight">Shell:</span> Android Studio<br/>
+        <span class="highlight">Education:</span> B.Sc. CS<br/>
+        <span class="highlight">CPU:</span> ML &amp; Deep Learning<br/>
+        -------------------------<br/>
+        <span class="highlight">Contact:</span> kishanpokal1111@gmail.com
+      </div>
+    </div>
+  </foreignObject>
+</svg>
