@@ -1,20 +1,57 @@
 <!-- HEADER — commit header.svg to your repo root -->
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Kishan Pokal - Android Developer | AI &amp; Data Science Enthusiast"/>
+  <img src="./header.svg" width="100%" alt="Kishan Pokal - Android Developer | AI & Data Science Enthusiast"/>
 </div>
 
 <div align="center">
+
+<table>
+<tr>
+<td valign="top">
+<pre><code>
+       .        .
+      / \      / \
+     |   |____|   |
+     |   (o)(o)   |
+     |  /      \  |
+     | |        | |
+     |  \      /  |
+      \__\____/__/
+
+> systemctl status kishan
+> running (active)
+</code></pre>
+</td>
+<td valign="top">
+<pre><code>
+kishan@github:~$ neofetch
+-------------------------
+OS: Android / ML Ecosystem
+Kernel: Kotlin, Python, Java, C++
+Uptime: 24/7 (Coding & Testing)
+Packages: Firebase, Next.js, Flask
+Shell: Zsh / Android Studio
+Education: B.Sc. CS @ Gujarat University
+CPU: Machine Learning & Deep Learning
+Memory: Constantly learning Cloud & UI
+-------------------------
+Contact: kishanpokal1111@gmail.com
+</code></pre>
+</td>
+</tr>
+</table>
+
+## Kishan Pokal
+**Android Developer · AI Builder · Data Science Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kishanpokal956-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpokal956)
+[![X](https://img.shields.io/badge/X-kishanpokal1111-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@kishanpokal1111)
+[![Instagram](https://img.shields.io/badge/Instagram-kishan._.pokal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kishan._.pokal)
+[![Email](https://img.shields.io/badge/Email-kishanpokal1111-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanpokal1111@gmail.com)
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Building+Smart+Android+Apps;Exploring+Machine+Learning;B.Sc.+Computer+Science+Grad)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kishan._.pokal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpokal956)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@kishanpokal1111)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanpokal1111@gmail.com)
 
 </div>
 
@@ -22,10 +59,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education:** B.Sc. Computer Science (2022–2025) @ Gujarat University
-- 🎯 **Current Goal:** Building scalable, professional apps to publish on the Google Play Store by late 2026 / early 2027.
-- 💡 **Interests:** Integrating AI features (like spending prediction & smart recommendations) into practical applications.
-- 🌱 **Currently Learning:** Machine Learning, Deep Learning, Cloud Computing, and advanced UI architecture.
+- 🎯 **Current Focus:** Managing 14-day closed testing cycles on the Google Play Console for upcoming app launches.
+- 🎓 **Education:** B.Sc. Computer Science (2022–2025) @ Gujarat University.
+- 💡 **Interests:** Integrating local AI models (like Gemma) and smart recommendation systems directly into mobile applications.
+- 🌱 **Currently Learning:** Deep Learning neural network structures, Cloud Computing, and advanced UI architecture.
 
 ---
 
@@ -33,7 +70,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Smart Expense Tracker** | Financial management app featuring AI-driven spending predictions and personalized smart recommendations. | `Kotlin` `Android` `Firebase` |
+| **TrackEasy** | Financial management app featuring AI-driven spending predictions, smart recommendations, and dynamic promo assets. | `Kotlin` `Android` `Firebase` |
+| **Private Tuition Agent** | Mobile application for private tuition integrated with a local AI model to help students ask questions interactively. | `Android` `Machine Learning` |
 | **AttendMate** | Mobile application designed for seamless and efficient attendance tracking and management. | `Kotlin` `Android` |
 | **Habit Tracker** | Web application featuring secure user authentication flows and progress analytics. | `Web` `Next.js` `Auth` |
 
@@ -74,20 +112,15 @@
 
 ## 📈 GitHub Analytics
 
-<!-- 
-  Using github-readme-stats hosted on anuraghazra's own domain (more reliable than vercel.app)
-  Stats card + Top Langs side by side
--->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanpokal&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpokal&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
 </div>
 
 <br/>
 
-<!-- Streak stats — nirzak instance is more stable than default -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kishanpokal&theme=tokyonight&hide_border=false" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=kishanpokal&theme=tokyonight&hide_border=false" width="70%"/>
 </div>
 
 ---
@@ -95,7 +128,7 @@
 ## 📊 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanpokal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -103,11 +136,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg" width="100%"/>
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kishanpokal/kishanpokal/output/github-contribution-grid-snake-purple.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
@@ -120,11 +153,11 @@
 
 <br/>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kishanpokav)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kishanpokal)
 
 </div>
 
 <!-- FOOTER — commit footer.svg to your repo root -->
 <div align="center">
-  <img src="./footer.svg" width="100%" alt="footer"/>
+  <img src="./footer.svg" width="100%" alt="footer"/>
 </div>
